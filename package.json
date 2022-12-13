@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/mcastrucci/express-react-template-example#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-react-views": "^0.11.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
